@@ -82,6 +82,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify)** ([Modrinth](https://modrinth.com/mod/resourcify)) - An in-game resource pack browser
 - **[JustAlittleWolf/modpackLoaderFabric](https://github.com/JustAlittleWolf/modpackLoaderFabric)** - Automatically checks for updates for installed mods via a JSON file
 - **[TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu)** ([Modrinth](https://modrinth.com/mod/modmenu)) - The leading mod for seeing all of your installed mods for Fabric and Quilt has a Modrinth update checker built-in
+- **[flytegg/plugin-portal](https://github.com/flytegg/plugin-portal)** ([Modrinth](https://modrinth.com/plugin/pluginportal)) - Minecraft plugin manager for downloading and updating plugins from the chatbar.
 
 ## Modpack creation tools
 
